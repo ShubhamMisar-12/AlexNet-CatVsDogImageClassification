@@ -1,6 +1,6 @@
 # Cat vs Dog
 
-![Link to Kaggle](https://www.kaggle.com/code/shubhammisar/cat-vs-dog-alex-net-pytorch)
+[Link to Kaggle](https://www.kaggle.com/code/shubhammisar/cat-vs-dog-alex-net-pytorch)
 
 Cat vs. Dog Image Classification using AlexNet in PyTorch
 
