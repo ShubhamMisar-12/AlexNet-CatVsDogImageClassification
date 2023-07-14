@@ -91,7 +91,7 @@ You can install the required libraries by running `pip install -r requirements.t
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
 
 ## Usage
 
